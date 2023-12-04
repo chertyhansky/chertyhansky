@@ -8,7 +8,10 @@
 [![Bash](https://img.shields.io/badge/Shell-464646?style=flat-square&logo=zsh)](https://git.savannah.gnu.org/cgit/bash.git)
 [![Django](https://img.shields.io/badge/Django-464646?style=flat-square&logo=django)](https://www.djangoproject.com/)
 [![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-464646?style=flat-square&logo=django)](https://docs.pytest.org/en/6.2.x/)
+[![GitHub](https://img.shields.io/badge/GitHub-464646?style=flat-square&logo=github)](https://github.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-464646?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
 [![Pytest](https://img.shields.io/badge/Pytest-464646?style=flat-square&logo=pytest)](https://docs.pytest.org/en/6.2.x/)
+[![Vim](https://img.shields.io/badge/Vim-464646?style=flat-square&logo=neovim)](https://www.vim.org/)
 
 
 ---

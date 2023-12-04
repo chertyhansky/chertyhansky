@@ -5,10 +5,10 @@
 [![Python](https://img.shields.io/badge/Python-464646?style=flat-square&logo=python)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-464646?style=flat-square&logo=sql)](https://ru.wikipedia.org/wiki/SQL)
 [![Git](https://img.shields.io/badge/Git-464646?style=flat-square&logo=git)](https://git.kernel.org/pub/scm/git/git.git/)
-[![Bash](https://img.shields.io/badge/Bash-464646?style=flat-square&logo=ghubash)](https://git.savannah.gnu.org/cgit/bash.git)
+[![Bash](https://img.shields.io/badge/Shell-464646?style=flat-square&logo=zsh)](https://git.savannah.gnu.org/cgit/bash.git)
 [![Django](https://img.shields.io/badge/Django-464646?style=flat-square&logo=django)](https://www.djangoproject.com/)
-[![Pytest](https://img.shields.io/badge/Pytest-464646?style=flat-square&logo=pytest)](https://docs.pytest.org/en/6.2.x/)
 [![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-464646?style=flat-square&logo=django)](https://docs.pytest.org/en/6.2.x/)
+[![Pytest](https://img.shields.io/badge/Pytest-464646?style=flat-square&logo=pytest)](https://docs.pytest.org/en/6.2.x/)
 
 
 ---

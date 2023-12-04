@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=chertyhansky)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chertyhansky&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chertyhansky&theme=dark)
 
 <!--
 **chertyhansky/chertyhansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

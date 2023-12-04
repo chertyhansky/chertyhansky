@@ -1,7 +1,6 @@
 # Павел Карнаухов
 
 ![](https://komarev.com/ghpvc/?username=chertyhansky)
-
 [![Python](https://img.shields.io/badge/Python-464646?style=flat-square&logo=python)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-464646?style=flat-square&logo=sql)](https://ru.wikipedia.org/wiki/SQL)
 [![Git](https://img.shields.io/badge/Git-464646?style=flat-square&logo=git)](https://git.kernel.org/pub/scm/git/git.git/)
@@ -19,7 +18,7 @@
 
 ---
 
-### :technologist: Обо мне:
+### :technologist: Обо мне
 
 
 

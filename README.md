@@ -1,7 +1,5 @@
 # Павел Карнаухов
 
-На данной странице можно ознакомиться с моими проектами.
-
 ---
 
 ![](https://komarev.com/ghpvc/?username=chertyhansky)
@@ -19,23 +17,20 @@
 [![Pytest](https://img.shields.io/badge/Pytest-464646?style=flat-square&logo=pytest)](https://docs.pytest.org/en/6.2.x/)
 [![Vim](https://img.shields.io/badge/Vim-464646?style=flat-square&logo=neovim)](https://www.vim.org/)
 
+---
+
+На данной странице можно ознакомиться с моими проектами.
 
 
+## [Foodgram](https://github.com/chertyhansky/foodgram-project-react)
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chertyhansky&theme=dark) -->
+приложение для публикации рецептов, которое позволяет:
 
-<!--
-**chertyhansky/chertyhansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- публиковать и редактировать рецепты;
+- одписываться на других пользователей;
+- обавлять понравившиеся рецепты в избранное;
+- обавлять рецепты в список покупок;
+- ормировать список покупок на основе добавленных рецептов;
+- качивать список покупок в виде текстового файла.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->

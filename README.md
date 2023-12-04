@@ -21,6 +21,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-464646?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
 [![Pytest](https://img.shields.io/badge/Pytest-464646?style=flat-square&logo=pytest)](https://docs.pytest.org/en/6.2.x/)
 [![Vim](https://img.shields.io/badge/Vim-464646?style=flat-square&logo=neovim)](https://www.vim.org/)
+[![HTTPie](https://img.shields.io/badge/HTTPie-464646?style=flat-square&logo=httpie)](https://httpie.io/)
 
 ---
 

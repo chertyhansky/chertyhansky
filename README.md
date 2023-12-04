@@ -1,5 +1,9 @@
 # Павел Карнаухов
 
+На данной странице можно ознакомиться с моими проектами.
+
+---
+
 ![](https://komarev.com/ghpvc/?username=chertyhansky)
 [![Python](https://img.shields.io/badge/Python-464646?style=flat-square&logo=python)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-464646?style=flat-square&logo=sql)](https://ru.wikipedia.org/wiki/SQL)
@@ -15,10 +19,6 @@
 [![Pytest](https://img.shields.io/badge/Pytest-464646?style=flat-square&logo=pytest)](https://docs.pytest.org/en/6.2.x/)
 [![Vim](https://img.shields.io/badge/Vim-464646?style=flat-square&logo=neovim)](https://www.vim.org/)
 
-
----
-
-### :technologist: Обо мне
 
 
 

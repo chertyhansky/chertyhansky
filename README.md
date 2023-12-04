@@ -8,7 +8,8 @@
 [![Bash](https://img.shields.io/badge/Bash-464646?style=flat-square&logo=ghubash)](https://git.savannah.gnu.org/cgit/bash.git)
 [![Django](https://img.shields.io/badge/Django-464646?style=flat-square&logo=django)](https://www.djangoproject.com/)
 [![Pytest](https://img.shields.io/badge/Pytest-464646?style=flat-square&logo=pytest)](https://docs.pytest.org/en/6.2.x/)
-[![Postman](https://img.shields.io/badge/Postman-464646?style=flat-square&logo=postman)](https://www.postman.com/)
+[![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-464646?style=flat-square&logo=django)](https://docs.pytest.org/en/6.2.x/)
+
 
 ---
 

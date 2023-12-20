@@ -29,22 +29,12 @@ Telegram: [@chertyhansky](https://t.me/chertyhansky)
 ---
 
 
-## [Foodgram](https://github.com/chertyhansky/foodgram-project-react)
+[Foodgram](https://github.com/chertyhansky/foodgram-project-react) - приложение для публикации рецептов.
 
-приложение для публикации рецептов.
+[YaTube](https://github.com/chertyhansky/api_final_yatube) - API для социальной сети/блога
 
-## [YaTube](https://github.com/chertyhansky/api_final_yatube)
+[YaMDb](https://github.com/chertyhansky/api_yamdb) - Групповой проект API, собирает отзывы пользователей на произведения.
 
-API для социальной сети/блога
+[HomeworkBot](https://github.com/chertyhansky/homework_bot) - Telegram-бот, который отслеживает статус проверки проекта через API Яндекс Практикум
 
-## [YaMDb](https://github.com/chertyhansky/api_yamdb)
-
-Групповой проект API, собирает отзывы пользователей на произведения.
-
-## [HomeworkBot](https://github.com/chertyhansky/homework_bot)
-
-Telegram-бот, который отслеживает статус проверки проекта через API Яндекс Практикум
-
-## [Filltag](https://github.com/chertyhansky/filltag)
-
-Консольная утилита на языке zsh для редактирования тэгов аудиофайлов
+[Filltag](https://github.com/chertyhansky/filltag) - Консольная утилита на языке zsh для редактирования тэгов аудиофайлов

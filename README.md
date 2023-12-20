@@ -1,5 +1,7 @@
 # Павел Карнаухов
 
+Telegram: [@chertyhansky](https://t.me/chertyhansky)
+
 На данной странице можно ознакомиться с моими проектами.
 
 ---
